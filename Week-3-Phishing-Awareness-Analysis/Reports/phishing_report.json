@@ -1,0 +1,18 @@
+{
+    "report_generated": "2026-11-14 23:41:52",
+    "email_details": {
+        "sender": "hr@google.com",
+        "return_path": "hr@google.com",
+        "subject": "Interview Schedule Confirmation"
+    },
+    "analysis_results": {
+        "header_warnings": [],
+        "url_warnings": [],
+        "keyword_warnings": [],
+        "attachment_warnings": []
+    },
+    "threat_assessment": {
+        "risk_score": 0,
+        "risk_level": "LOW RISK"
+    }
+}
